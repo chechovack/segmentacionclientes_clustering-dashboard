@@ -17,7 +17,6 @@ Optimizar el relacionamiento con los clientes del *Producto 24* mediante segment
 - SQL (pandasql)
 - Power BI (dashboard final)
 - Excel (.xlsx original)
-- Streamlit (interfaz local para QA interna, opcional)
 
 ---
 
@@ -55,10 +54,16 @@ Dashboard en Power BI que permite:
 - Explorar variables clave: prima emitida, valor asegurado, siniestralidad
 - Mapear clusters y categorías de atención
 
-📷 Capturas recomendadas:
-- `Capturas/dashboard_producto24.png`
-- `Capturas/mapa_clusters_pca.png`
-- `Capturas/tabla_segmentacion.png`
+## 🖼️ Capturas del Proyecto
+
+<h3>Pestaña General Dashboard</h3>
+<img src="Capturas/Dashboard_General.png" alt="Formulario" width="600"/>
+
+<h3>Pestaña Focus Producto 24</h3>
+<img src="Capturas/Dashboard_Producto.png" alt="Formulario" width="600"/>
+
+<h3>Pestaña Relacionamiento - Clusterizacion </h3> 
+<img src="Capturas/Dashboard_Relacionamiento.png" alt="Formulario" width="600"/>
 
 ---
 
@@ -66,8 +71,7 @@ Dashboard en Power BI que permite:
 
 📁 Capturas/
 📁 notebooks/
-📁 sql/
-📁 data/
+📁 data/ ---- No se muestra el Excel por cuestiones de confidencialidad.
 📄 README.md
 
 ## 🧠 Conclusiones
